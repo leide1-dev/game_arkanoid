@@ -1,1 +1,1 @@
-# game_arkanoid
+Game created using PHP and MYSQL
